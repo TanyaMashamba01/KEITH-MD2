@@ -1,5 +1,5 @@
 {
-  "name": "KEITH-MD",
+  "name": "MidKing01",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/Keithkeizzah/KEITH-MD2#readme",
   "repository": "https://github.com/tanyaMashamba01/KEITH-MD2.git",
-  "logo": "https://i.imgur.com/dAtHp2k.jpeg",
+  "logo": "https://i.imgur.com/tVeAmta.jpeg",
   "success_url": "/",
   "env": {
     "PREFIX": {
