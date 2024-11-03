@@ -15,13 +15,13 @@
     "md-bot"
   ],
   "website": "https://github.com/Keithkeizzah/KEITH-MD2#readme",
-  "repository": "https://github.com/Keithkeizzah/KEITH-MD2.git",
+  "repository": "https://github.com/tanyaMashamba01/KEITH-MD2.git",
   "logo": "https://i.imgur.com/dAtHp2k.jpeg",
   "success_url": "/",
   "env": {
     "PREFIX": {
       "description": "choose your prefix for keith. To prevent errors and confusion you must set a prefix",
-      "value": ".",
+      "value": "/",
       "required": true
     },
     "DEV": {
